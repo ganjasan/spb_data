@@ -1,0 +1,24 @@
+{
+"type": "FeatureCollection",
+"name": "театры",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "title": "ОсобняК СПб, театр", "address": "Санкт-Петербург, Каменноостровский проспект, 55" }, "geometry": { "type": "Point", "coordinates": [ 30.306795, 59.971672 ] } },
+{ "type": "Feature", "properties": { "title": "Люди Дождя, театральная студия", "address": "Санкт-Петербург, Мончегорская, 10Б" }, "geometry": { "type": "Point", "coordinates": [ 30.293949, 59.957687 ] } },
+{ "type": "Feature", "properties": { "title": "Каменноостровский театр", "address": "Санкт-Петербург, Старого Театра площадь, 13" }, "geometry": { "type": "Point", "coordinates": [ 30.275345, 59.976747 ] } },
+{ "type": "Feature", "properties": { "title": "Кулуары, культурный центр", "address": "Санкт-Петербург, Биржевая линия, 12" }, "geometry": { "type": "Point", "coordinates": [ 30.296015, 59.943643 ] } },
+{ "type": "Feature", "properties": { "title": "Русская антреприза, Санкт-Петербургский театр им. А. Миронова", "address": "Санкт-Петербург, Каменноостровский проспект, 35" }, "geometry": { "type": "Point", "coordinates": [ 30.312239, 59.966111 ] } },
+{ "type": "Feature", "properties": { "title": "Остров СПб, драматический театр", "address": "Санкт-Петербург, Каменноостровский проспект, 26-28" }, "geometry": { "type": "Point", "coordinates": [ 30.313901, 59.962845 ] } },
+{ "type": "Feature", "properties": { "title": "Наш Театр", "address": "Санкт-Петербург, Добролюбова проспект, 1\/79" }, "geometry": { "type": "Point", "coordinates": [ 30.305942, 59.949645 ] } },
+{ "type": "Feature", "properties": { "title": "Алые паруса, драматический театр", "address": "Санкт-Петербург, Малая Посадская, 23" }, "geometry": { "type": "Point", "coordinates": [ 30.331166, 59.958327 ] } },
+{ "type": "Feature", "properties": { "title": "АСМ-Арт, интерактивный детский театр", "address": "Санкт-Петербург, Большая Разночинная, 25а" }, "geometry": { "type": "Point", "coordinates": [ 30.287014, 59.961467 ] } },
+{ "type": "Feature", "properties": { "title": "Чаплин Холл, театр", "address": "Санкт-Петербург, Пироговская набережная, 5" }, "geometry": { "type": "Point", "coordinates": [ 30.34129, 59.957003 ] } },
+{ "type": "Feature", "properties": { "title": "Лицедеи, театр", "address": "Санкт-Петербург, Льва Толстого, 9" }, "geometry": { "type": "Point", "coordinates": [ 30.31567, 59.965124 ] } },
+{ "type": "Feature", "properties": { "title": "Ленинградский Дворец Молодежи", "address": "Санкт-Петербург, Профессора Попова, 47" }, "geometry": { "type": "Point", "coordinates": [ 30.287068, 59.971181 ] } },
+{ "type": "Feature", "properties": { "title": "Сказкин Дом, музей-театр", "address": "Санкт-Петербург, Александровский парк, 1а" }, "geometry": { "type": "Point", "coordinates": [ 30.309212, 59.953615 ] } },
+{ "type": "Feature", "properties": { "title": "Мюзик-Холл, государственный театр", "address": "Санкт-Петербург, Александровский парк, 4" }, "geometry": { "type": "Point", "coordinates": [ 30.311655, 59.955111 ] } },
+{ "type": "Feature", "properties": { "title": "Театр поколений им. З.Я. Корогодского", "address": "Санкт-Петербург, Лахтинская, 25а" }, "geometry": { "type": "Point", "coordinates": [ 30.297345, 59.964205 ] } },
+{ "type": "Feature", "properties": { "title": "Балтийский дом, театр-фестиваль", "address": "Санкт-Петербург, Александровский парк, 4" }, "geometry": { "type": "Point", "coordinates": [ 30.311655, 59.955111 ] } },
+{ "type": "Feature", "properties": { "title": "Эрмитажный театр, Государственный Эрмитаж", "address": "Санкт-Петербург, Дворцовая набережная, 34" }, "geometry": { "type": "Point", "coordinates": [ 30.315832, 59.942074 ] } }
+]
+}
